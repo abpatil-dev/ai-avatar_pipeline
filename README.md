@@ -1,5 +1,13 @@
 # Technical Report: Voice-Based Conversational AI System 🎤🤖
 
+---
+### Demo Video & Technical Report
+- **Demo Video**: [View the demo here](<DEMO_VIDEO_URL>)  
+  *Watch a quick walkthrough demonstrating audio recording, STT, LLM responses, and TTS playback.*  
+- **Technical Report**: [Download the full report (PDF)](<https://docs.google.com/document/d/1rzgdXc0Y07AROs84Ayw45I-sYUPF0x3GUUJ8cIo-b_U/edit?usp=sharing>)  
+  *Contains detailed architecture diagrams, technology stack justifications, and future enhancements.*
+---
+
 ## 1. Introduction 🌟
 This project implements a **Conversational AI System** that enables **voice-based interaction in Hindi**. The system encompasses several key modules to deliver a robust conversational experience:
 - **Speech-to-Text (STT)**: Converts Hindi speech into text. 🎙️➡️📝  
