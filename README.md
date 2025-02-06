@@ -2,7 +2,7 @@
 
 ---
 ### Demo Video & Technical Report
-- **Demo Video**: [View the demo here](<DEMO_VIDEO_URL>)  
+- **Demo Video**: [View the demo here](<https://drive.google.com/file/d/1pQnedSg8YhANvEjzGR3mgGbmqrdYHTE2/view?usp=sharing>)  
   *Watch a quick walkthrough demonstrating audio recording, STT, LLM responses, and TTS playback.*  
 - **Technical Report**: [Download the full report (PDF)](<https://docs.google.com/document/d/1rzgdXc0Y07AROs84Ayw45I-sYUPF0x3GUUJ8cIo-b_U/edit?usp=sharing>)  
   *Contains detailed architecture diagrams, technology stack justifications, and future enhancements.*
