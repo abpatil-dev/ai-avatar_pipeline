@@ -1,0 +1,12 @@
+streamlit
+audio_recorder_streamlit
+streamlit-float
+langchain==0.3.16
+python-dotenv==1.0.1
+langchain_core==0.3.32
+langchain_community==0.3.16
+google-generativeai==0.8.4
+langchain_google_genai==2.0.9
+Flask==3.1.0
+torch==2.5.1
+requests==2.32.3
